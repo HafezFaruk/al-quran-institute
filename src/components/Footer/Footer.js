@@ -33,11 +33,11 @@ const Footer = () => {
             </div>
             <div className="col-md-3">
               <div className="right-footer-container">
-                <h6>Sign up for the newsletter</h6>
+                <h6>Sign up</h6>
                 <input
                   className="footer-input"
                   type="text"
-                  placeholder="Enter Email"
+                  placeholder="Enter your Email"
                 />
                 <div className="mt-4">
                   <div>

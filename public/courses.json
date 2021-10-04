@@ -1,0 +1,74 @@
+[
+	{
+	  "key": 0,
+	  "title": "Competition Devetion",
+	  "image": "https://al-quran-b.netlify.app/img/img-2.jpg",
+	  "price": 10000,
+	  "instructor": "Qari Nazmul",
+	  "duration": "120h"
+	},
+	{
+	  "key": 1,
+	  "Name": "Java Programming",
+	  "image": "https://al-quran-b.netlify.app/img/img-10.jpg",
+	  "price": 16000,
+	  "instructor": "Nur Korim",
+	  "duration": "200h"
+	},
+	{
+	  "key": 2,
+	  "title": "Python Programming",
+	  "image": "https://al-quran-b.netlify.app/img/img-3.jpg",
+	  "price": 15000,
+	  "instructor": "Nazrul Islam",
+	  "duration": "280h"
+	},
+	{
+	  "key": 3,
+	  "title": "Front-End Development",
+	  "image": "https://al-quran-b.netlify.app/img/img-9.png",
+	  "price": 8000,
+	  "instructor": "Simon D Silva",
+	  "duration": "180h"
+	},
+	{
+	  "key": 4,
+	  "title": "Wordpress Development",
+	  "image": "https://al-quran-b.netlify.app/img/img-16.jpg",
+	  "price": 5000,
+	  "instructor": "Md Musa",
+	  "duration": "180h"
+	},
+	{
+	  "key": 5,
+	  "title": "Django Framework",
+	  "image": "https://al-quran-b.netlify.app/img/img-1.jpg",
+	  "price": 10000,
+	  "instructor": "Md. Younus",
+	  "duration": "160h"
+	},
+	{
+	  "key": 6,
+	  "title": "PHP Language",
+	  "image": "https://al-quran-b.netlify.app/img/img-4.jpg",
+	  "price": 10000,
+	  "instructor": "Nurar Nahar",
+	  "duration": "180h"
+	},
+	{
+	  "key": 7,
+	  "title": "Android Apps",
+	  "image": "https://al-quran-b.netlify.app/img/img-5.jpg",
+	  "price": 15000,
+	  "instructor": "Tasnuba Romana",
+	  "duration": "200h"
+	},
+	{
+	  "key": 8,
+	  "title": "Android Apps",
+	  "image": "https://al-quran-b.netlify.app/img/img-5.jpg",
+	  "price": 15000,
+	  "instructor": "Tasnuba Romana",
+	  "duration": "200h"
+	}
+  ]

@@ -1,38 +1,10 @@
-# Getting Started with "BeaconIT Limited" project.
+# Al Quran Institute
 
-This project was created in:
-<li>React JS </li>
-<li> React Font Awesome</li>
-<li>React Router Dom</li>
-<li>React Bootstrap</li>
-<li>Fully Responsive</li>
+⚫ Our goal is to make it easier for people to be educated in Islamic teachings through this site
+⚫ Our organization has achieved excellence among the advanced curry and Hafez at home and abroad
+⚫ One of the features of our institution is to know the best Hafez in the world. Hafez Nazmus Shakib Zakaria is one of the students of our Madrasa among all Hafez.
 
 
 ## Live Site Link
 
-This project deploy in netlifly website: Live site link: (https://beaconit-nur-web.netlify.app/)
-
-### Project Feature:
-This project have four pages
-    <ol>
-        <li> Home Page
-            <ul>
-                <li>Home Page with four active service</li>
-            </ul>
-        </li>
-        <li> Service Page
-             <ul>
-                <li>Service Page with 8 active service</li>
-            </ul>
-        </li>
-        <li> About Page
-            <ul>
-                <li>About Page with their about us</li>
-            </ul>
-        </li>
-        <li> Contact Page
-            <ul>
-                <li>Contact Page for contact with  them</li>
-            </ul>
-        </li>
-    </ol>
+Live site link: (https://assignment-9-hafez-faruk.netlify.app/)

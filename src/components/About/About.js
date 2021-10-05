@@ -19,8 +19,8 @@ const About = () => {
                     <div className="col">
                         <div className="about-left">
                             <h3 className="my-5">Our acquaintance</h3>
-                            <p>BEACON IT was established in 2008 with a view to developing skilled resources for the IT industry in the Bangladesh. BEACON IT which is a dynamic and fast growing IT Training provider. Be an IT professional from BEACON IT.</p>
-                            <p>BEACON IT is the only one specialized institute for Outsourcing and IT professional training in Chittagong. We are providing Career oriented professional training in Bangladesh since 2008</p>
+                            <p>The main goal and objective of Al-Quran Institute is to develop the day-to-day activities along with making Deendar Allawala.</p>
+                            <p>The second objective is to increase the practice of Qur'an and Hadith at all levels, both at home and abroad, online and offline.</p>
                         </div>
                     </div>
                 </div>

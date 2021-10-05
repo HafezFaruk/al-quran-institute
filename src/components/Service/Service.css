@@ -8,3 +8,9 @@
 .card-img-top {
     max-height: 200px;
 }
+.title{
+    font-size: 20px;
+}
+.card-height{
+    border: 2px solid grey;
+}

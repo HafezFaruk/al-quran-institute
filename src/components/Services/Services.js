@@ -1,7 +1,7 @@
 import React from 'react';
 import { useEffect } from 'react';
 import { useState } from 'react';
-import { Breadcrumb } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 import Service from '../Service/Service';
 import './Services.css';
 const Services = () => {
@@ -17,12 +17,8 @@ const Services = () => {
                 <div className="row text-center py-5">
                         <div className="col section-title text-center">
                             <h2>Services</h2>
-                            <Breadcrumb>
-                                <Breadcrumb.Item href="#">Home</Breadcrumb.Item>
-                                <Breadcrumb.Item href="" active>
-                                    Service
-                                </Breadcrumb.Item>
-                            </Breadcrumb>
+                            <Link to="/service">Service</Link>
+                            <Link className="ms-2" to="/home">Home</Link>
                         </div>
                     </div>
                     <div className="row">
@@ -32,8 +28,6 @@ const Services = () => {
                             service={service}
                             ></Service>)
                         }
-                        
-                    
                 </div>
             </div>
         </div>

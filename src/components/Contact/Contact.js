@@ -1,5 +1,5 @@
 import React from 'react';
-import { Breadcrumb } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 import './Contact.css';
 
 const Contact = () => {
@@ -8,18 +8,14 @@ const Contact = () => {
             <div className="row text-center py-5">
                         <div className="col section-title text-center">
                             <h2>Contact</h2>
-                            <Breadcrumb>
-                                <Breadcrumb.Item href="#">Home</Breadcrumb.Item>
-                                <Breadcrumb.Item href="" active>
-                                    Contact
-                                </Breadcrumb.Item>
-                            </Breadcrumb>
+                            <Link to="/home">Home</Link>
+                            <Link className="ms-2" to="/contact">Contact</Link>
                         </div>
                     </div>
             <section className="contact-area py-5">
                 <div className="container">
                     <div className="section-title text-center text-uppercase py-3 mb-3">
-                        <h2>Our<span className="theme-color">Service From</span></h2>
+                        <h2>Our Service From</h2>
                     </div>
                     <div className="row">
                         <div className="col-lg-12">
@@ -45,7 +41,7 @@ const Contact = () => {
                                     </div>
                                     <input type="text" className="form-control mb-3 p-3 " placeholder="Subject" />
                                     <textarea className="form-control mb-3 p-3 " name="" id="" cols="30" rows="10">Message</textarea>
-                                    <button type="submit" className="btn btn-primary theme-bg p-3 px-4">Send Message</button>
+                                    <button type="submit" className="btn btn-primary fs-4">Send Message</button>
                                 </form>
                             </div>
                         </div>
